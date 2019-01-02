@@ -2,7 +2,7 @@
 <html>
 
 
-<!-- Mirrored from www.konnectplugins.com/proclinic/Horizontal/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Dec 2018 19:41:47 GMT -->
+<!-- Mirrored from www.konnectplugins.com/proclinic/Horizontal/login.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Dec 2018 19:41:47 GMT -->
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -86,7 +86,7 @@
 								<!-- Links -->	
 								<div class="auth-footer-text">
 									<small>New User,
-										<a href="sign-up.html">Sign Up</a> Here</small>
+										<a href="sign-up.php">Sign Up</a> Here</small>
 								</div>
 								<!-- /Links -->
 							</form>
@@ -108,5 +108,5 @@
 </body>
 
 
-<!-- Mirrored from www.konnectplugins.com/proclinic/Horizontal/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Dec 2018 19:41:47 GMT -->
+<!-- Mirrored from www.konnectplugins.com/proclinic/Horizontal/login.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Dec 2018 19:41:47 GMT -->
 </html>
